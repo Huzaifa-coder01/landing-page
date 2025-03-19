@@ -20,11 +20,11 @@ This is a **modern and responsive landing page** built using **React Vite**. It 
 1. **Clone the repository**  
    ```sh
    git clone https://github.com/Huzaifa-coder01/landing-page.git
-2. **Navigate into the Project Folder**
+2. **Navigate into the Project Folder:** 
     cd landing-page
-3. **Install Dependencies**
+3. **Install Dependencies:** 
     npm install
-4. **Start the Development Server**
+4. **Start the Development Server:** 
     npm run dev
 
 ## 🤝 Contributing
