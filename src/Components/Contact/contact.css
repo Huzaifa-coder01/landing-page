@@ -1,0 +1,63 @@
+/* Styling for the contact section */
+#contact {
+    background-color: #f9f9f9;
+    padding: 50px;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 600px;
+    margin: 40px auto;
+}
+
+/* Heading styles */
+#contact h2 {
+    font-size: 2rem;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+/* Form styling */
+#contact form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+/* Input and textarea styles */
+#contact input,
+#contact textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 1rem;
+    outline: none;
+    transition: border 0.3s ease;
+}
+
+#contact input:focus,
+#contact textarea:focus {
+    border-color: #007bff;
+}
+
+/* Textarea specific styles */
+#contact textarea {
+    resize: vertical;
+    min-height: 120px;
+}
+
+/* Button styles */
+#contact button {
+    background-color: #007bff;
+    color: white;
+    padding: 12px;
+    border: none;
+    border-radius: 5px;
+    font-size: 1.2rem;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+#contact button:hover {
+    background-color: #0056b3;
+}
