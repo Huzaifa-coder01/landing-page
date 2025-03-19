@@ -31,4 +31,4 @@ This is a **modern and responsive landing page** built using **React Vite**. It 
 Feel free to fork this repository and submit pull requests! 🚀
 
 ## 📜 License
-This project is open-source and available under the MIT License.
+This project is open-source and available under the MIT License.# landing-page
